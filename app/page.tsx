@@ -37,10 +37,9 @@ export default function Home() {
                 </h2>
                 <div className="skill-subHeading">
                     <p>
-                        Hi Everyone my name is Harsh Kumar. I am a full stack web developer.
-                        I have been working for last 3 years and currently I am working with a 
-                        banking company named JP Morgan Chase and Co. Currently I am working on
-                        NextJs and making beautiful UI-UX are my key features.
+                        Hi Everyone my name is Rahul Dey. I am a cloud developer.
+                        I have been learning cloud computing from the last 1.5 years. Currently I am working in
+                        the field of DevOps and making innovative projects.
                     </p>
                     <p>
                         As an enthusiast learner to the cutting edge lastest technologies, I

@@ -346,9 +346,10 @@
 .skills-container{
   position:relative;
   display:flex;
+  flex-direction: row-reverse;
   padding:5rem;
   
-  gap:30px;
+  gap:70px;
 }
 .skill-container-left{
   width:50%;
