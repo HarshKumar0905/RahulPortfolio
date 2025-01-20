@@ -27,7 +27,7 @@ export async function sendContactDetails({
       });
 
       const emailResponse = await MailSender(
-        "pranshu09051@gmail.com",
+        "rahul.2002.dey@gmail.com",
         `Hey Rahul, you got a connection request`,
         contactEmail(firstName, lastName, email, countryCode, number, message)
     );
